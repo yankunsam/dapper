@@ -1,0 +1,6 @@
+{
+  "/v1/chain/get_info": {
+    "target": "http://localhost:8888",
+    "secure": false
+  }
+}
